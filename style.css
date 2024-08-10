@@ -1,0 +1,33 @@
+
+h1 {
+    font-family: Inter;
+    font-size: 49px;
+    font-weight: 400;
+    line-height: 56px;
+    text-align: center;       
+}
+
+p {
+font-family: Open Sans;
+font-size: 14px;
+font-weight: 400;
+line-height: 28px;
+text-align: center;
+
+}
+
+span {
+    color: rgb(22, 165, 231);
+}
+
+footer {
+
+
+text-align: center; 
+border-top: 1px solid #ECEFF2
+
+}
+
+div {
+    text-align: center;
+}
