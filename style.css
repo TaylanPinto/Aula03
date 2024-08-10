@@ -13,6 +13,7 @@ font-size: 14px;
 font-weight: 400;
 line-height: 28px;
 text-align: center;
+color: rgb(83, 83, 83);
 
 }
 
@@ -31,3 +32,4 @@ border-top: 1px solid #ECEFF2
 div {
     text-align: center;
 }
+
